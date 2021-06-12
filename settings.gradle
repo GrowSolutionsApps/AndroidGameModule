@@ -1,0 +1,3 @@
+rootProject.name = "GameMVVMModule"
+include ':app'
+include ':gamemodule'

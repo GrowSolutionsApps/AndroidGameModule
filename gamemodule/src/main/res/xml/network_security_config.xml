@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system"/>
+            <certificates src="user"/>
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">http://picturekeyboardapps.in</domain>
+        <domain includeSubdomains="true">picturekeyboardapps.in</domain>
+        <domain includeSubdomains="true">http://www.google.com</domain>
+        <domain includeSubdomains="true">google.com</domain>
+        <domain includeSubdomains="true">bestgalleryapp.com</domain>
+        <domain includeSubdomains="true">www.bestgalleryapp.com</domain>
+        <domain includeSubdomains="true">http://www.ip-api.com</domain>
+        <domain includeSubdomains="true">www.ip-api.com</domain>
+        <domain includeSubdomains="true">ip-api.com</domain>
+    </domain-config>
+</network-security-config>

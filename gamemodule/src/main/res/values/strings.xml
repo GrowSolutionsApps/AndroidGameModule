@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameModule</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_native_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_rewarded_ad_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="back_admob_rewarded_ad_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_int_ad_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="back_admob_int_ad_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="network_error">Network Error</string>
+    <string name="network_try_again">Please check your network connection and try again</string>
+    <string name="network_refresh">Refresh</string>
+</resources>
